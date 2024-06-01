@@ -16,7 +16,7 @@ export default function MainChoices() {
   };
 
   return (
-    <div className="flex flex-col mb-[1rem] items-center">
+    <div className="flex flex-col mb-[1rem] items-center mt-3">
       <div className="flex flex-col items-center space-y-10 mt-10 relative z-20">
         <div className="flex space-x-32">
           <Circle 
